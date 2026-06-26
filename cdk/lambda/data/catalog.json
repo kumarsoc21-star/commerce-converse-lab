@@ -1,0 +1,302 @@
+[
+  {
+    "itemSku": "APPL-001",
+    "displayName": "AirPods Pro (2nd generation)",
+    "deptLabel": "Apple",
+    "deptKey": "apple",
+    "unitPrice": 249.0,
+    "qtyAvailable": 42,
+    "blurb": "Active noise cancellation, Adaptive Audio, and USB-C charging case. Trail & Ember ships sealed Apple retail boxes with gift receipt available.",
+    "thumbUrl": "https://picsum.photos/seed/appl-airpods/400/300"
+  },
+  {
+    "itemSku": "APPL-002",
+    "displayName": "Apple Watch SE (GPS, 40mm)",
+    "deptLabel": "Apple",
+    "deptKey": "apple",
+    "unitPrice": 249.0,
+    "qtyAvailable": 28,
+    "blurb": "Essential health, fitness, and notification features in a lightweight aluminum case. Pair with any iPhone. Bands sold separately.",
+    "thumbUrl": "https://picsum.photos/seed/appl-watch/400/300"
+  },
+  {
+    "itemSku": "APPL-003",
+    "displayName": "iPad mini (Wi-Fi, 64GB)",
+    "deptLabel": "Apple",
+    "deptKey": "apple",
+    "unitPrice": 499.0,
+    "qtyAvailable": 15,
+    "blurb": "8.3-inch Liquid Retina display, A15 chip, and Apple Pencil support. A compact tablet for reading, notes, and travel.",
+    "thumbUrl": "https://picsum.photos/seed/appl-ipad/400/300"
+  },
+  {
+    "itemSku": "APPL-004",
+    "displayName": "MagSafe Silicone Case \u2014 iPhone 15",
+    "deptLabel": "Apple",
+    "deptKey": "apple",
+    "unitPrice": 49.0,
+    "qtyAvailable": 67,
+    "blurb": "Official Apple silicone case with MagSafe alignment. Soft-touch finish and microfiber lining. Under-$50 Apple accessory gift.",
+    "thumbUrl": "https://picsum.photos/seed/appl-case/400/300"
+  },
+  {
+    "itemSku": "APPL-005",
+    "displayName": "Apple Gift Card \u2014 $50 Digital",
+    "deptLabel": "Apple",
+    "deptKey": "apple",
+    "unitPrice": 50.0,
+    "qtyAvailable": 999,
+    "blurb": "Email delivery in minutes. Redeem on App Store, Apple Music, iCloud+, and hardware at apple.com. Never expires.",
+    "thumbUrl": "https://picsum.photos/seed/appl-giftcard/400/300"
+  },
+  {
+    "itemSku": "SAMS-001",
+    "displayName": "Galaxy Buds FE",
+    "deptLabel": "Samsung",
+    "deptKey": "samsung",
+    "unitPrice": 99.99,
+    "qtyAvailable": 55,
+    "blurb": "Active noise reduction and rich sound in a comfortable in-ear fit. Works with Android and iOS via Galaxy Wearable app.",
+    "thumbUrl": "https://picsum.photos/seed/sams-buds/400/300"
+  },
+  {
+    "itemSku": "SAMS-002",
+    "displayName": "Galaxy Tab A9+ (Wi-Fi, 64GB)",
+    "deptLabel": "Samsung",
+    "deptKey": "samsung",
+    "unitPrice": 219.99,
+    "qtyAvailable": 22,
+    "blurb": "11-inch display, quad speakers, and long battery life for streaming and browsing. Includes 15W charger in box.",
+    "thumbUrl": "https://picsum.photos/seed/sams-tab/400/300"
+  },
+  {
+    "itemSku": "SAMS-003",
+    "displayName": "Galaxy Watch6 (40mm, Bluetooth)",
+    "deptLabel": "Samsung",
+    "deptKey": "samsung",
+    "unitPrice": 299.99,
+    "qtyAvailable": 18,
+    "blurb": "Sleep coaching, heart-rate tracking, and quick text replies from your wrist. Best paired with Samsung Galaxy phones.",
+    "thumbUrl": "https://picsum.photos/seed/sams-watch/400/300"
+  },
+  {
+    "itemSku": "SAMS-004",
+    "displayName": "Galaxy SmartTag2 (4-Pack)",
+    "deptLabel": "Samsung",
+    "deptKey": "samsung",
+    "unitPrice": 39.99,
+    "qtyAvailable": 88,
+    "blurb": "Bluetooth trackers with long battery life and SmartThings Find. Clip to keys, bags, or luggage. Under-$50 Samsung gift.",
+    "thumbUrl": "https://picsum.photos/seed/sams-tag/400/300"
+  },
+  {
+    "itemSku": "SAMS-005",
+    "displayName": "Samsung Gift Card \u2014 $25 Digital",
+    "deptLabel": "Samsung",
+    "deptKey": "samsung",
+    "unitPrice": 25.0,
+    "qtyAvailable": 999,
+    "blurb": "Instant email code for samsung.com accessories and select devices. One code per order; combinable with card at checkout.",
+    "thumbUrl": "https://picsum.photos/seed/sams-giftcard/400/300"
+  },
+  {
+    "itemSku": "BOOK-001",
+    "displayName": "Kindle Paperwhite (16GB)",
+    "deptLabel": "Ebooks & Audiobooks",
+    "deptKey": "ebooks",
+    "unitPrice": 149.99,
+    "qtyAvailable": 34,
+    "blurb": "6.8-inch glare-free display, adjustable warm light, and weeks of battery. Ships ready to load ebooks from our BOOK-* catalog.",
+    "thumbUrl": "https://picsum.photos/seed/kindle/400/300"
+  },
+  {
+    "itemSku": "BOOK-002",
+    "displayName": "Kindle Unlimited \u2014 12-Month Gift",
+    "deptLabel": "Ebooks & Audiobooks",
+    "deptKey": "ebooks",
+    "unitPrice": 119.99,
+    "qtyAvailable": 999,
+    "blurb": "Digital subscription gift code for unlimited reading from the Kindle Unlimited library. Delivered by email; non-refundable once redeemed.",
+    "thumbUrl": "https://picsum.photos/seed/kindle-unlimited/400/300"
+  },
+  {
+    "itemSku": "BOOK-003",
+    "displayName": "Audible Premium Plus \u2014 3 Months",
+    "deptLabel": "Ebooks & Audiobooks",
+    "deptKey": "ebooks",
+    "unitPrice": 45.0,
+    "qtyAvailable": 999,
+    "blurb": "Gift membership with one credit per month plus Plus Catalog listening. Email delivery within 15 minutes.",
+    "thumbUrl": "https://picsum.photos/seed/audible/400/300"
+  },
+  {
+    "itemSku": "BOOK-004",
+    "displayName": "Ebook: The Trail Home (Bestseller)",
+    "deptLabel": "Ebooks & Audiobooks",
+    "deptKey": "ebooks",
+    "unitPrice": 14.99,
+    "qtyAvailable": 999,
+    "blurb": "Instant download EPUB + Kindle format. Outdoor memoir perfect for weekend readers. Digital goods are final sale after download.",
+    "thumbUrl": "https://picsum.photos/seed/ebook-trail/400/300"
+  },
+  {
+    "itemSku": "BOOK-005",
+    "displayName": "Ebook Bundle: Tech Productivity Pack (5 titles)",
+    "deptLabel": "Ebooks & Audiobooks",
+    "deptKey": "ebooks",
+    "unitPrice": 29.99,
+    "qtyAvailable": 999,
+    "blurb": "Five curated business and productivity ebooks in one gift bundle. Redemption link emailed at checkout.",
+    "thumbUrl": "https://picsum.photos/seed/ebook-bundle/400/300"
+  },
+  {
+    "itemSku": "GIFT-001",
+    "displayName": "Amazon Gift Card \u2014 $50 Digital",
+    "deptLabel": "Gift Cards",
+    "deptKey": "gift-cards",
+    "unitPrice": 50.0,
+    "qtyAvailable": 999,
+    "blurb": "Email or text delivery. Redeem site-wide at amazon.com. No fees, no expiration on unused balance in most regions.",
+    "thumbUrl": "https://picsum.photos/seed/amazon-gc/400/300"
+  },
+  {
+    "itemSku": "GIFT-002",
+    "displayName": "Spotify Premium \u2014 6-Month Gift Card",
+    "deptLabel": "Gift Cards",
+    "deptKey": "gift-cards",
+    "unitPrice": 59.94,
+    "qtyAvailable": 999,
+    "blurb": "Prepaid code for ad-free music and offline downloads. Recipient redeems at spotify.com/redeem. Digital only.",
+    "thumbUrl": "https://picsum.photos/seed/spotify-gc/400/300"
+  },
+  {
+    "itemSku": "GIFT-003",
+    "displayName": "Netflix Gift Card \u2014 $30",
+    "deptLabel": "Gift Cards",
+    "deptKey": "gift-cards",
+    "unitPrice": 30.0,
+    "qtyAvailable": 999,
+    "blurb": "Apply to an existing Netflix account or start a new plan. Code delivered by email. Streaming subscription not included until redeemed.",
+    "thumbUrl": "https://picsum.photos/seed/netflix-gc/400/300"
+  },
+  {
+    "itemSku": "GIFT-004",
+    "displayName": "Uber Gift Card \u2014 $25 Digital",
+    "deptLabel": "Gift Cards",
+    "deptKey": "gift-cards",
+    "unitPrice": 25.0,
+    "qtyAvailable": 999,
+    "blurb": "Works for Uber rides and Uber Eats in supported cities. Instant email delivery. Non-refundable after code is revealed.",
+    "thumbUrl": "https://picsum.photos/seed/uber-gc/400/300"
+  },
+  {
+    "itemSku": "GIFT-005",
+    "displayName": "Trail & Ember Store Credit \u2014 $75",
+    "deptLabel": "Gift Cards",
+    "deptKey": "gift-cards",
+    "unitPrice": 75.0,
+    "qtyAvailable": 999,
+    "blurb": "Use on any Apple, Samsung, ebook, or accessory line at Converse Commerce. Never expires; combinable with one card at checkout.",
+    "thumbUrl": "https://picsum.photos/seed/te-gc/400/300"
+  },
+  {
+    "itemSku": "ACCS-001",
+    "displayName": "Anker 735 GaN USB-C Charger (65W)",
+    "deptLabel": "Accessories",
+    "deptKey": "accessories",
+    "unitPrice": 39.99,
+    "qtyAvailable": 120,
+    "blurb": "Charges laptop, phone, and tablet simultaneously. Works with Apple and Samsung USB-C devices. Compact fold-plug design.",
+    "thumbUrl": "https://picsum.photos/seed/anker-charger/400/300"
+  },
+  {
+    "itemSku": "ACCS-002",
+    "displayName": "Belkin 3-in-1 MagSafe Charging Stand",
+    "deptLabel": "Accessories",
+    "deptKey": "accessories",
+    "unitPrice": 149.99,
+    "qtyAvailable": 25,
+    "blurb": "Charge iPhone, Apple Watch, and AirPods on one stand. MagSafe up to 15W. Samsung phones use Qi pad on the base.",
+    "thumbUrl": "https://picsum.photos/seed/belkin-stand/400/300"
+  },
+  {
+    "itemSku": "ACCS-003",
+    "displayName": "Spigen Ultra Hybrid Case \u2014 Galaxy S24",
+    "deptLabel": "Accessories",
+    "deptKey": "accessories",
+    "unitPrice": 24.99,
+    "qtyAvailable": 95,
+    "blurb": "Clear back shows Samsung color while protecting corners. Raised lips for camera and screen. Under-$30 accessory gift.",
+    "thumbUrl": "https://picsum.photos/seed/spigen-case/400/300"
+  },
+  {
+    "itemSku": "ACCS-004",
+    "displayName": "Logitech Pebble Keys 2 + M350s Combo",
+    "deptLabel": "Accessories",
+    "deptKey": "accessories",
+    "unitPrice": 49.99,
+    "qtyAvailable": 44,
+    "blurb": "Slim Bluetooth keyboard and silent mouse for iPad, Galaxy Tab, or laptop. Multi-device pairing for desk and travel.",
+    "thumbUrl": "https://picsum.photos/seed/logitech-combo/400/300"
+  },
+  {
+    "itemSku": "ACCS-005",
+    "displayName": "Samsung 25W Super Fast Charger + Cable",
+    "deptLabel": "Accessories",
+    "deptKey": "accessories",
+    "unitPrice": 29.99,
+    "qtyAvailable": 0,
+    "blurb": "Official Samsung USB-C wall adapter and 6ft cable. Also fast-charges iPhone 15 via USB-C. Currently out of stock online.",
+    "thumbUrl": "https://picsum.photos/seed/samsung-charger/400/300"
+  },
+  {
+    "itemSku": "HOME-001",
+    "displayName": "Apple HomePod mini",
+    "deptLabel": "Smart Home",
+    "deptKey": "smart-home",
+    "unitPrice": 99.0,
+    "qtyAvailable": 31,
+    "blurb": "Room-filling sound, Siri, and Thread smart-home hub. Pairs with Apple Home app for lights and locks.",
+    "thumbUrl": "https://picsum.photos/seed/homepod-mini/400/300"
+  },
+  {
+    "itemSku": "HOME-002",
+    "displayName": "Samsung SmartThings Hub (v3)",
+    "deptLabel": "Smart Home",
+    "deptKey": "smart-home",
+    "unitPrice": 89.99,
+    "qtyAvailable": 20,
+    "blurb": "Central hub for Samsung SmartThings sensors, plugs, and Galaxy ecosystem automations. Ethernet or Wi-Fi setup.",
+    "thumbUrl": "https://picsum.photos/seed/smartthings/400/300"
+  },
+  {
+    "itemSku": "HOME-003",
+    "displayName": "Echo Dot (5th Gen) with Alexa",
+    "deptLabel": "Smart Home",
+    "deptKey": "smart-home",
+    "unitPrice": 49.99,
+    "qtyAvailable": 58,
+    "blurb": "Compact smart speaker for music, timers, and voice control. Works with many smart plugs and bulbs. Under-$50 gift.",
+    "thumbUrl": "https://picsum.photos/seed/echo-dot/400/300"
+  },
+  {
+    "itemSku": "HOME-004",
+    "displayName": "Philips Hue White Starter Kit (2 bulbs + Bridge)",
+    "deptLabel": "Smart Home",
+    "deptKey": "smart-home",
+    "unitPrice": 69.99,
+    "qtyAvailable": 27,
+    "blurb": "App and voice control for two warm-white bulbs. Bridge included for Apple HomeKit and Samsung SmartThings.",
+    "thumbUrl": "https://picsum.photos/seed/hue-starter/400/300"
+  },
+  {
+    "itemSku": "HOME-005",
+    "displayName": "Ring Video Doorbell Wired",
+    "deptLabel": "Smart Home",
+    "deptKey": "smart-home",
+    "unitPrice": 79.99,
+    "qtyAvailable": 36,
+    "blurb": "1080p doorbell with motion alerts to phone. Works with Alexa; live view from iPhone or Galaxy. Hardwired or plug-in adapter sold separately.",
+    "thumbUrl": "https://picsum.photos/seed/ring-doorbell/400/300"
+  }
+]
